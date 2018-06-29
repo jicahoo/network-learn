@@ -10,3 +10,7 @@ As title.
 * sudo tcpdump -X -S -s 0 -i eth0 -w wireshark.log
 * sudo tcpdump -X -S -s 0 -i lo -w wireshark.log
 * sudo tcpdump -i eth0 
+
+
+# TCP/IP
+* 滑动窗口：https://blog.csdn.net/wdscq1234/article/details/52444277
