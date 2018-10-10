@@ -14,3 +14,7 @@ As title.
 
 # TCP/IP
 * 滑动窗口：https://blog.csdn.net/wdscq1234/article/details/52444277
+
+# How does HTTP package go into gateway port.
+* The gateway port is within Router
+* Host will know the mac address of gateway port. You can check it with command `arp -a`
